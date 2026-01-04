@@ -2,7 +2,7 @@
 
 **Internship project | Python, Dash | 2025**
 
-Developed interactive dashboards during my internship at Vision IV to analyze and visualize the competitive landscape of boron-doped diamond semiconductors.
+Developed 3 interactive dashboards during my internship at Vision IV to analyze and visualize the competitive landscape of boron-doped diamond semiconductors.
 
 These tools allow comparison of Vision IV’s BDD devices against other semiconductors (Si, GaN, GaAs, SiC, etc.) and different diamond dopants (PDD, NDD, HPHT, CVD). Dashboards model trade-offs in properties like radiation hardness, thermal conductivity, and breakdown voltage to guide R&D decisions and product strategy.
 
